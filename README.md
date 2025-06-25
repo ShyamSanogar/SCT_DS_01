@@ -15,4 +15,4 @@ This project visualizes the distribution of India's population by age groups usi
 - Matplotlib
 
 ## Output
-![Age Distribution Chart](./Screenshot of the final bargraph.png)
+[![View Chart](./Screenshot.png)](./Screenshot.png)
