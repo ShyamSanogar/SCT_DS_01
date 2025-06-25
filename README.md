@@ -1,18 +1,25 @@
-# India's Age Distribution Visualization
+# 📊 India's Age Distribution Visualization 🇮🇳
 
-This project visualizes the distribution of India's population by age groups using data from an official demographic dataset.
+This project visualizes the distribution of India's population across age groups using data from an official demographic dataset.
 
-## Features
-- Data cleaning and transformation using pandas
-- Custom age bins (Children, Teenagers, Adults, Seniors)
-- Bar chart with sorted values and dark-themed aesthetics
-- Annotated exact population and percentages on each bar
+---
 
-## Tools Used
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
+## 🚀 Features
+- 🧹 Data cleaning and transformation using **pandas**
+- 🎯 Custom age bins: **Children, Teenagers, Adults, Seniors**
+- 🌑 Dark-themed bar chart using **Seaborn** and **Matplotlib**
+- 🧾 Annotated bars with exact population and percentage values
+- 📈 Sorted bars for clear comparison
 
-## Output
+---
+
+## 🛠️ Tools Used
+- 🐍 Python
+- 📊 Pandas
+- 🖌️ Seaborn
+- 📉 Matplotlib
+
+---
+
+## 📷 Output Chart
 [![View Chart](./Screenshot.png)](./Screenshot.png)
